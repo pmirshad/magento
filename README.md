@@ -4,6 +4,8 @@ Magento CE
 Magento CE 1.9.0.1 with additional patches
 
 The following patches have been applied
+* SUPEE-5994 [PATCH_SUPEE-5994_CE_1.6.0.0_v1-2015-05-15-04-34-46.sh, Release date: May 14, 2015]
+  - [SUPEE-5994 is a bundle of eight patches](http://merch.docs.magento.com/ce/user_guide/Magento_Community_Edition_User_Guide.html#magento/patch-releases-2015.html)
 * SUPEE-5344 [PATCH_SUPEE-5344_CE_1.8.0.0_v1.sh, Release date: Feb 9, 2015]
   - [Remote code execution vulnerability in Magento](http://blog.limesoda.com/2015/02/remote-code-execution-sicherheitsluecke-magento/)
 * Fix for preg_replace() bug when running Magento CE 1.9.0.1 with PHP 5.5
